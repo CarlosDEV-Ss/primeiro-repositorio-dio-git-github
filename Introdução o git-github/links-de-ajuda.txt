@@ -1,0 +1,2 @@
+# Links para ajudar a entender melhor sobre o **Markdown**
+ - [Sintexe markdown](https://www.markdownguide.org/basic-syntax)
